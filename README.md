@@ -1,1 +1,1 @@
-# Magenmany1.github.io
+>Just a small project
